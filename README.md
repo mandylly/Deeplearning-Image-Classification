@@ -1,7 +1,7 @@
 # Deeplearning-Image-Classification
 
 ## Dataset
-Dataset resource: [https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview]
+Dataset resource: [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview)
 The train dataset contains 25,000 images of dogs and cats.
 Each image in this folder has the label as part of the filename (that is, having "cat" or "dog" in their file names).
 
